@@ -3,9 +3,9 @@ title: Deep RL for Trading on MNG.MA
 date: 2025-01-09 12:00:00 +0100
 categories: [Project, Finance]
 tags: [reinforcement learning, lstm, trading]
-image:
-  path: /assets/img/my_chart.png   # Optional: Top banner image
-  alt: Equity Curve
+#image:
+ # path: /assets/img/my_chart.png    Optional: Top banner image
+  #alt: Equity Curve
 ---
 
 ## The Problem
