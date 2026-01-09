@@ -19,7 +19,7 @@ I compared two methods:
 ## Results
 I achieved a **36% ROI** using the DQN agent.
 
-![My Equity Curve](/assets/img/my_chart.png)
+#![My Equity Curve](/assets/img/my_chart.png)
 *(Note: Upload your image to the 'assets/img' folder)*
 
 ## Conclusion
