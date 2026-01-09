@@ -4,9 +4,7 @@ date: 2026-01-09 12:00:00 +0100
 categories: [Project, Finance]
 tags: [reinforcement learning, deep learning, time series, trading, xlstm, lstm]
 math: true
-image:
-  path: /assets/img/mng_banner.png
-  alt: "MNG.MA — Deep Learning × RL"
+
 ---
 
 # De LSTM à xLSTM, puis au trading : un pipeline DL×RL sur MNG.MA
