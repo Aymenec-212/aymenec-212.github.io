@@ -1,5 +1,5 @@
 ---
-title: "De LSTM à xLSTM, puis au trading : un pipeline scientifique Deep Learning × Reinforcement Learning sur MNG.MA"
+title: "Un pipeline Deep Learning × Reinforcement Learning sur MNG.MA"
 date: 2026-01-09 12:00:00 +0100
 categories: [Project, Finance]
 tags: [reinforcement learning, deep learning, time series, trading, xlstm, lstm, stable-baselines3]
