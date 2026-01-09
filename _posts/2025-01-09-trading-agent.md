@@ -9,7 +9,7 @@ image:
   alt: "MNG.MA — Deep Learning × RL"
 ---
 
-# De LSTM à xLSTM, puis au trading : un pipeline scientifique DL×RL sur MNG.MA
+# De LSTM à xLSTM, puis au trading : un pipeline DL×RL sur MNG.MA
 
 ## Résumé
 Cet article propose (i) une mise en perspective scientifique **LSTM vs xLSTM** à partir des motivations architecturales de la mémoire récurrente moderne, puis (ii) une étude expérimentale reproductible sur **MNG.MA** (Bourse de Casablanca).
