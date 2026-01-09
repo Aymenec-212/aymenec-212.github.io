@@ -209,7 +209,7 @@ ce qui indique un compromis rendement/risque particulièrement favorable sur TES
 
 # Partie IV — Analyse critique et implications
 
-## 11. Couplage représentation–agent : le point central
+## 11. Couplage représentation–agent :
 Un enseignement méthodologique majeur est que la performance ne dépend pas seulement du backbone (LSTM vs xLSTM), mais du **couplage** :
 
 \[
@@ -220,7 +220,7 @@ Dans notre cas :
 - xLSTM fournit une représentation riche,
 - **DQN** (value-based, actions discrètes) s’est montré particulièrement capable de l’exploiter dans un cadre Long/Flat.
 
-## 12. Frozen vs fine-tuning : robustesse out-of-sample
+## 12. Frozen vs fine-tuning :
 Le fine-tuning peut améliorer l’adéquation in-sample, mais il expose au risque de spécialisation au régime de validation. Sur TEST, l’affinage (Stage 2) ne s’est pas traduit par une amélioration systématique des métriques, ce qui renforce l’idée que des backbones **gelés** peuvent offrir une représentation plus robuste pour la généralisation temporelle.
 
 ## 13. Pourquoi A2C peut échouer ici
@@ -231,7 +231,7 @@ peut entraîner une instabilité d’apprentissage et une politique défavorable
 
 ---
 
-# Limites et perspectives (scientifiques)
+# Limites et perspectives
 - **Non-stationnarité** : une seule découpe temporelle ne suffit pas à caractériser la robustesse ; une validation walk-forward renforcerait la conclusion.
 - **Espace d’action** : Long/Flat simplifie la microstructure ; extensions possibles : short, position sizing continu, gestion du levier.
 - **Généralisation** : réplication sur plusieurs titres/secteurs marocains pour tester la stabilité des conclusions.
@@ -241,10 +241,11 @@ peut entraîner une instabilité d’apprentissage et une politique défavorable
 # Références
 - S. Hochreiter, J. Schmidhuber (1997). *Long Short-Term Memory*. Neural Computation, 9(8), 1735–1780.  
 - M. Beck et al. (2024). *xLSTM: Extended Long Short-Term Memory*. arXiv:2405.04517.
+- T. Kabbani and E. Duman, ‘Deep Reinforcement Learning Approach for Trading Automation in the Stock Market,’ IEEE Access, vol. 10,pp. 93564–93574, 2022.
+- Sarlakifar, A., Asl, M. P., & Ghorbani, A. A. (2025). A Deep Reinforcement Learning Approach to Automated Stock Trading, using xLSTM Networks. arXiv preprint arXiv:2503.09655.
 
 ---
 
-# Liens (à compléter)
+# Liens (sera publié très prochainement)
 - Notebook Kaggle (reproductibilité) : …
-- Rapport PDF : …
 - Dépôt GitHub : …
