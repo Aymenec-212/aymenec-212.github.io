@@ -99,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/avatar.jpg  # <--- Ensure this matches the file you uploaded in Step 1
+avatar: /assets/avatar.jpeg  # <--- Ensure this matches the file you uploaded in Step 1
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
