@@ -1,3 +1,10 @@
+---
+# The layout must be 'page' for it to render correctly in Chirpy
+layout: page
+icon: fas fa-info-circle
+order: 4
+title: About
+---
 
 ## Hi, I'm Aymen 👋
 
@@ -7,10 +14,10 @@ Currently, I focus on **Machine Learning Systems**, bridging the gap between the
 
 ### 🛠 Tech Stack
 
-- **Languages**: Python, SQL, R, C++
-- **Machine Learning**: PyTorch, TensorFlow, Scikit-learn
-- **MLOps**: Docker, Kubernetes, MLflow, CI/CD pipelines
-- **Data**: Pandas, Spark, SQL
+- **Languages**: Python, SQL, Rust (notions)
+- **Machine Learning**: PyTorch, Scikit-learn
+- **MLOps**: Docker, MLflow, CI/CD pipelines
+- **Data**: Pandas, ray
 
 ### 🚀 What I'm Working On
 
