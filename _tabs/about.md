@@ -1,10 +1,3 @@
----
-# The layout must be 'page' for it to render correctly in Chirpy
-layout: page
-icon: fas fa-info-circle
-order: 4
-title: About
----
 
 ## Hi, I'm Aymen 👋
 
