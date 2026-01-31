@@ -26,6 +26,12 @@ I created this blog to document my journey, share technical tutorials, and showc
 2. **Deep Learning Applications**
 3. **Data Engineering workflows**
 
+### 📄 Resume
+
+You can view or download my full resume here:
+
+<i class="fas fa-file-pdf"></i> [Download My CV](/assets/pdf/cv.pdf)
+
 ### 📫 Get in Touch
 
 I am always open to discussing new projects, collaborations, or just chatting about the latest in AI.
